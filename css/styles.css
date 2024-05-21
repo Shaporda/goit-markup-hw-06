@@ -230,6 +230,7 @@ ul {
 
 .header-menu-link {
     text-decoration: none;
+    color: #434455;
     position: relative;
     line-height: 1.5;
     font-weight: 500;
@@ -1318,3 +1319,4 @@ ul {
         background: #fcfcfc;
     }
 }
+
