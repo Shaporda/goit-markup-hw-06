@@ -1081,7 +1081,7 @@ ul {
 
     /* Footer */
 
-    .footer-container {
+    .container-footer {
         flex-wrap: wrap;
         flex-direction: row;
         padding: 0 108px;
@@ -1326,7 +1326,6 @@ ul {
         background: #fcfcfc;
     }
 }
-
 
 footer-text {
     color: #f4f4fd;
